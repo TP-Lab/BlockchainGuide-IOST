@@ -24,7 +24,7 @@ IOST 账号由5~11个字符组成，字符包括字母、数字和下划线，�
 <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870644665.png" width="50%"><img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589858538611.png" width="50%">
 </figure>
 
-*** 好友创建 ***
+### 好友创建
 
 好友创建本质是通过其他账号来支付创建 IOST 新账号所需的资源费用。即可以用已经持有IOST的账号来支付新账号的创建费用，或是让朋友来帮忙支付。
 
@@ -32,11 +32,11 @@ IOST 账号由5~11个字符组成，字符包括字母、数字和下划线，�
 
 在钱包中把创建 IOST 账号产生的订单信息页面发送给好友，由好友代为支付创建 IOST 账号所产生的费用，好友支付成功后就可以激活账号使用了，当然了好友代付这一步你也可以用自己的账号支付。
 
-*** 质押创建 ***
+###  质押创建 
 
 使用质押创建账户，需要有另外一个账号帮忙质押10个IOST才能够完成新账户创建，用户可以使用 IOSTABC 浏览器进行质押创建，创建账号前需要先安装浏览器插件 iWallet 并登录 IOST 账号。
 
-*** 免费创建 ***
+###  免费创建 
 
 为了让更多用户零门槛进入IOST生态，很多节点以自费补贴账号成本的方式，让用户可以0花费创建IOST账号。
 
@@ -155,6 +155,7 @@ https://developers.iost.io/docs/zh-CN/3-smart-contract/Token721.html 
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860560351.png "IOST钱包")
 
 + 通过IOST投票宝投票
++ 
 IOST 投票宝是由 IOST 节点合伙人 —— 猎币开发的 IOST 链上投票与分红领取工具，可以对比节点分红收益，一键领取每日分红等。
 
 IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包的DApp浏览器直接 进入投票宝并登录IOST账号，进行 IOST 节点的投票、领取收益以及赎回等操作。
@@ -164,9 +165,10 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860618067.png "IOST钱包")
 
 + 特殊的投票玩法——矿池
++ 
 矿池是基于PoS建立的一种理财机制，用户使用IOST Token可以在矿池进行挖矿。
 
-***猎币IOST矿池***<br/>
+**猎币IOST矿池** 
 
 在猎币 IOST 矿池中，挖矿的过程是将 IOST 兑换成 VOST（矿权）的过程，1 VOST = 1 IOST，兑换成功即开始计算挖矿收益。 挖矿收益将通过矿权的形式每日结算一次，结算后账号所持有的矿权总量增加，所以挖矿收益也相应增加，达到复利的效果。
 
@@ -174,7 +176,7 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860981218.png "IOST钱包")
 
-*** 火币IOST矿池 ***
+**火币IOST矿池**
 
 火币IOST矿池挖矿的过程是将 IOST 兑换成 HPT（火币矿池的权益证明）的过程，HPT是火币矿池的权益证明，持有HPT可深度参与火币矿池的生态建设以及获得权益派发，通过数字资产锁仓、投票、POW算力接入可进行HPT挖矿，通过火币矿池给 IOST 节点投票属于 HPT 挖矿中的投票挖矿。
 
@@ -186,7 +188,7 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 
 作为IOST持币者，我们需要了解各个IOST节点合伙人情况以及IOST节点合伙人运作机制。
 
-*** 1、 IOST节点合伙人机制介绍 ***
+**1、 IOST节点合伙人机制介绍**
 
 有志于成为IOST合伙人的个人或团队，只需填写合伙人申请表，即可成为候选人。节点合伙人申请表<br/>
 <div align="left">
@@ -197,7 +199,7 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 
 获票数不低于210万即可成为节点合伙人，所有节点合伙人一年共享总发行量4%（840,000,000 IOST）的节点合伙人奖励。其中25%为当选奖励，25%为出块奖励，50%为贡献奖励。
 
-2、认识IOST节点合伙人
+** 2、认识IOST节点合伙人 **
 
 我们可在 IOST ABC区块浏览器查询 IOST 各个投票节点合伙人详细信息，可以查看节点合伙人名称、得票、年化利率以及出块数量等。
 
@@ -205,14 +207,13 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 
 此外，我们还可以通过关注每个季度IOST节点合伙人贡献评级排名，来判断我们应该投给哪些真正为IOST社区贡献且投票奖励较高的节点合伙人。
 
-部分优秀IOST节点合伙人展示<br/>
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589889570981.png "IOST钱包")
+![部分优秀IOST节点合伙人展示](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589889570981.png "IOST钱包")
 
 ### 发行基于IOST公链的代币（Token）
 
 任何人都可以在 IOST 主网上发行代币，在 IOST 发币非常简单，由节点合伙人 IOST TOOL 开发的一键发币工具可以帮助我们在 IOST 公链上发行自己的代币。
 
-***1、通过 TokenPocket 发币***
+**1、通过TOKENPocket 发币**
 
 在TP  钱包【发现】 IOST 专区找到 IOST一键发币应用并打开。
 
@@ -222,7 +223,7 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 
 需要注意的是，发币需要消耗 IOST 资源，在发币前需要账户里边有足够数量的 iRAM 资源。
 
-***2、通过 IOST Tool 网站发币***
+** 2、通过 IOST Tool 网站发币 **
 
 使用 IOST Tool 网站发币前，需要先下载iWallet插件钱包并安装，登录 iWallet 钱包后，在 "一键发Token" 网站 http://www.iosttool.com/ 中依次输入Token名称、发行量、精度、通证说明这4个关键参数，就可以发行你的个人Token啦！
 
@@ -232,7 +233,7 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 
 ### IOST Token 相关
 
-*** 1、如何获得 IOST Token ***
+**1、如何获得 IOST Token**
 
 通过交易所交易、币币闪兑、法币购买这三种方式，用户可以很方便的获得IOST Token。
 
@@ -413,7 +414,7 @@ SDK链接：https://github.com/TP-Lab/TokenPocket-Protocol
 
 
 ## IOST联系方式
-<main class="tp-main">
+<main class="tp-main contact">
 
 <div class="tp-custom icon">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589869384860.png"/>
