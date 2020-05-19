@@ -475,7 +475,7 @@ SDK链接：https://github.com/TP-Lab/TokenPocket-Protocol
 
 1.本文版权归TokenPocket所有。<br/>
 2.在征得作者同意的情况下，作品允许非盈利性引用，需要注明并请注明出处和作者，以尊重作者的劳动成果。<br/>
-3.出处：（发布后加入）作者：TokenPocket。<br/>
+3.出处：（https://tp-lab.github.io/BlockchainGuide-IOST/#/）作者：TokenPocket。<br/>
 4.未经允许，严禁转载。对非法转载者，TokenPocket和作/译者保留采用法律手段追究的权利。<br/>
 5.对于本文和本声明以及其修改权、更新权及最终解释权均属TokenPocket。<br/>
 6.以上声明的解释权归“TokenPocket”所有。<br/>
