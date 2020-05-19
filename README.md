@@ -429,14 +429,14 @@ SDK链接：https://github.com/TP-Lab/TokenPocket-Protocol
         </div>
     </a>
      <a class="tp-custom tp-customs" href="https://www.infinitowallet.io" target="_blank">
-        <img class="tp-logo" src="hhttps://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894847574.png"/>
+        <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895829338.png"/>
         <div class="tp-content">
             <h5>Infinito</h5>
             <p>https://www.infinitowallet.io</p>
         </div>
     </a>
     <a class="tp-custom tp-customs" href="https://bigfour.io" target="_blank">
-        <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894904243.png/>
+        <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895894732.png"/>
         <div class="tp-content">
             <h5>BigFour</h5>
             <p>https://bigfour.io</p>
@@ -467,7 +467,7 @@ SDK链接：https://github.com/TP-Lab/TokenPocket-Protocol
   <main class="tp-main">
 
     <a class="tp-custom tp-customs" href="https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj" target="_blank">
-        <img class="tp-logo" src="https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj"/>
+        <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895952241.png"/>
         <div class="tp-content">
             <h5>iWallet</h5>
             <p>https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj</p>
