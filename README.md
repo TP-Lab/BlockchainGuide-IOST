@@ -199,7 +199,7 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 
 获票数不低于210万即可成为节点合伙人，所有节点合伙人一年共享总发行量4%（840,000,000 IOST）的节点合伙人奖励。其中25%为当选奖励，25%为出块奖励，50%为贡献奖励。
 
-** 2、认识IOST节点合伙人 **
+**2、认识IOST节点合伙人**
 
 我们可在 IOST ABC区块浏览器查询 IOST 各个投票节点合伙人详细信息，可以查看节点合伙人名称、得票、年化利率以及出块数量等。
 
@@ -207,7 +207,8 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 
 此外，我们还可以通过关注每个季度IOST节点合伙人贡献评级排名，来判断我们应该投给哪些真正为IOST社区贡献且投票奖励较高的节点合伙人。
 
-![部分优秀IOST节点合伙人展示](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589889570981.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589889570981.png "IOST钱包")
+<center>部分优秀IOST节点合伙人展示</center>
 
 ### 发行基于IOST公链的代币（Token）
 
@@ -223,7 +224,7 @@ IOST投票宝作为一个H5（HTML5）型态的产品，用户可以借助钱包
 
 需要注意的是，发币需要消耗 IOST 资源，在发币前需要账户里边有足够数量的 iRAM 资源。
 
-** 2、通过 IOST Tool 网站发币 **
+**2、通过 IOST Tool 网站发币**
 
 使用 IOST Tool 网站发币前，需要先下载iWallet插件钱包并安装，登录 iWallet 钱包后，在 "一键发Token" 网站 http://www.iosttool.com/ 中依次输入Token名称、发行量、精度、通证说明这4个关键参数，就可以发行你的个人Token啦！
 
@@ -305,7 +306,7 @@ IOST 账号在转账前，需要先保证账号内有足够的 IOST 资源，IOS
 
 收款 IOST Token 也是在钱包内完成的，在收款时把 IOST 账号发给对方，或者把 IOST 账号的二维码发给对方，然后由对方完成转账操作。
 
-***持有IOSTToken可以做什么 ***
+**持有IOSTToken可以做什么**
 
 1、持有 IOST Token，可以进行转账和 IOST 节点投票
 
@@ -383,21 +384,107 @@ SDK链接：https://github.com/TP-Lab/TokenPocket-Protocol
 ## IOST钱包分类
 
 + 去中心化钱包：<br/>
-    TokenPocket：https://www.Tokenpocket.pro<br/>
+  <main class="tp-main">
+
+    <a class="tp-custom tp-customs" href="https://www.Tokenpocket.pro" target="_blank">
+        <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894459599.png"/>
+        <div class="tp-content">
+            <h5>TokenPocket</h5>
+            <p>https://www.Tokenpocket.pro</p>
+        </div>
+    </a>
+    <a class="tp-custom tp-customs" href="https://cobo.com" target="_blank">
+        <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894579177.png"/>
+        <div class="tp-content">
+            <h5>Cobo</h5>
+            <p>https://cobo.com</p>
+        </div>
+    </a>
+    <a class="tp-custom tp-customs" href="http://purewallet.org" target="_blank">
+        <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894636963.png"/>
+        <div class="tp-content">
+            <h5>PureWallet</h5>
+            <p>http://purewallet.org</p>
+        </div>
+    </a>
+    <a class="tp-custom tp-customs" href="https://www.huobiwallet.com" target="_blank">
+        <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894692897.png"/>
+        <div class="tp-content">
+            <h5>火币钱包</h5>
+            <p>https://www.huobiwallet.com</p>
+        </div>
+    </a>
+     <a class="tp-custom tp-customs" href="https://app.bepal.pro/" target="_blank">
+        <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894736327.png"/>
+        <div class="tp-content">
+            <h5>Bepal</h5>
+            <p>https://app.bepal.pro/</p>
+        </div>
+    </a>
+     <a class="tp-custom tp-customs" href="https://www.starteos.io" target="_blank">
+        <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894808120.png"/>
+        <div class="tp-content">
+            <h5>Starteos</h5>
+            <p>https://www.starteos.io</p>
+        </div>
+    </a>
+     <a class="tp-custom tp-customs" href="https://www.infinitowallet.io" target="_blank">
+        <img class="tp-logo" src="hhttps://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894847574.png"/>
+        <div class="tp-content">
+            <h5>Infinito</h5>
+            <p>https://www.infinitowallet.io</p>
+        </div>
+    </a>
+    <a class="tp-custom tp-customs" href="https://bigfour.io" target="_blank">
+        <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894904243.png/>
+        <div class="tp-content">
+            <h5>BigFour</h5>
+            <p>https://bigfour.io</p>
+        </div>
+    </a>
+</main>
+    <!-- TokenPocket：https://www.Tokenpocket.pro<br/>
     Cobo：https://cobo.com<br/>
     PureWallet：http://purewallet.org<br/>
     火币钱包：https://www.huobiwallet.com<br/>
     Bepal：https://app.bepal.pro/<br/>
     Starteos：https://www.starteos.io<br/>
     Infinito：https://www.infinitowallet.io<br/>
-    BigFour：https://bigfour.io<br/>
+    BigFour：https://bigfour.io<br/> -->
 + 硬件钱包<br/>
-    库神：https://www.coldlar.com<br/>
++ <main class="tp-main">
+
+    <a class="tp-custom tp-customs" href="https://www.coldlar.com" target="_blank">
+        <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894978000.png"/>
+        <div class="tp-content">
+            <h5>库神</h5>
+            <p>https://www.coldlar.com</p>
+        </div>
+    </a>
+</main>
+    <!-- 库神：https://www.coldlar.com<br/> -->
 + 插件钱包<br/>
-    iWallet——<br/>
+  <main class="tp-main">
+
+    <a class="tp-custom tp-customs" href="https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj" target="_blank">
+        <img class="tp-logo" src="https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj"/>
+        <div class="tp-content">
+            <h5>iWallet</h5>
+            <p>https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj</p>
+        </div>
+    </a>
+    <a class="tp-custom tp-customs" href="https://chrome.google.com/webstore/detail/jetstream/ijancdlmlahmfgcimhocmpibadokcdfc" target="_blank">
+        <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895063706.png"/>
+        <div class="tp-content">
+            <h5>Jetstream</h5>
+            <p>https://chrome.google.com/webstore/detail/jetstream/ijancdlmlahmfgcimhocmpibadokcdfc</p>
+        </div>
+    </a>
+</main>
+    <!-- iWallet——<br/>
     https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj<br/>
     Jetstream——<br/>
-    https://chrome.google.com/webstore/detail/jetstream/ijancdlmlahmfgcimhocmpibadokcdfc<br/>
+    https://chrome.google.com/webstore/detail/jetstream/ijancdlmlahmfgcimhocmpibadokcdfc<br/> -->
 
 ## IOST钱包知识自测
 
@@ -414,51 +501,51 @@ SDK链接：https://github.com/TP-Lab/TokenPocket-Protocol
 
 
 ## IOST联系方式
-<main class="tp-main contact">
+<main class="tp-main">
 
-<div class="tp-custom icon">
+<div class="tp-custom icon contact">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589869384860.png"/>
     <div class="tp-content">
         <p>IOST官网：iost.io</p>
     </div>
 </div>
 
-<div class="tp-custom icon">
+<div class="tp-custom icon contact">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870220254.png"/>
     <div class="tp-content">
         <p>微博：IOST社区</p>
     </div>
 </div>
 
-<div class="tp-custom icon">
+<div class="tp-custom icon contact">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870346059.png"/>
     <div class="tp-content">
         <p>Twitter:  twitter.com/iosToken</p>
     </div>
 </div>
 
-<div class="tp-custom icon">
+<div class="tp-custom icon contact">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870407994.png"/>
     <div class="tp-content">
         <p>Telegram:  t.me/iostchinese</p>
     </div>
 </div>
 
-<div class="tp-custom icon">
+<div class="tp-custom icon contact">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870450791.png"/>
     <div class="tp-content">
         <p>GitHub: https://github.com/iost-official</p>
     </div>
 </div>
 
-<div class="tp-custom icon">
+<div class="tp-custom icon contact">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870503428.png"/>
     <div class="tp-content">
         <p>Medium: medium.com/iost</p>
     </div>
 </div>
 
-<div class="tp-custom icon">
+<div class="tp-custom icon contact">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870585429.png"/>
     <div class="tp-content">
         <p>Zendesk iost.zendesk.com</p>
