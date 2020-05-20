@@ -461,7 +461,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
       BigFour：https://bigfour.io<br/> -->
 
 - 硬件钱包<br/>
-- <main class="tp-main">
+  <main class="tp-main">
 
       <a class="tp-custom tp-customs" href="https://www.coldlar.com" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894978000.png"/>
