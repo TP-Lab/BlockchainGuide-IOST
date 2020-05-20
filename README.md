@@ -407,7 +407,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
   Jetstream——<br/>
   https://chrome.google.com/webstore/detail/jetstream/ijancdlmlahmfgcimhocmpibadokcdfc<br/>
 
-<!-- - 去中心化钱包：<br/>
+* 去中心化钱包：<br/>
     <main class="tp-main">
 
       <a class="tp-custom tp-customs" href="https://www.Tokenpocket.pro" target="_blank">
@@ -467,42 +467,40 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
           </div>
       </a>
 
-  </main> -->
+  </main>
 
-<!-- * 硬件钱包<br/>
-* <main class="tp-main">
+* 硬件钱包<br/>
+<main class="tp-main">
 
-      <a class="tp-custom tp-customs" href="https://www.coldlar.com" target="_blank">
-          <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894978000.png"/>
-          <div class="tp-content">
-              <h5>库神</h5>
-              <p>https://www.coldlar.com</p>
-          </div>
-      </a>
+<a class="tp-custom tp-customs" href="https://www.coldlar.com" target="_blank">
+    <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894978000.png"/>
+    <div class="tp-content">
+        <h5>库神</h5>
+        <p>https://www.coldlar.com</p>
+    </div>
+</a>
 
-  </main> -->
+</main>
 
-      <!-- 库神：https://www.coldlar.com<br/> -->
+- 插件钱包<br/>
+<main class="tp-main">
 
-<!-- * 插件钱包<br/>
-    <main class="tp-main">
+<a class="tp-custom tp-customs" href="https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj" target="_blank">
+    <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895952241.png"/>
+    <div class="tp-content">
+        <h5>iWallet</h5>
+        <p>https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj</p>
+    </div>
+</a>
+<a class="tp-custom tp-customs" href="https://chrome.google.com/webstore/detail/jetstream/ijancdlmlahmfgcimhocmpibadokcdfc" target="_blank">
+    <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895063706.png"/>
+    <div class="tp-content">
+        <h5>Jetstream</h5>
+        <p>https://chrome.google.com/webstore/detail/jetstream/ijancdlmlahmfgcimhocmpibadokcdfc</p>
+    </div>
+</a>
 
-      <a class="tp-custom tp-customs" href="https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj" target="_blank">
-          <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895952241.png"/>
-          <div class="tp-content">
-              <h5>iWallet</h5>
-              <p>https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj</p>
-          </div>
-      </a>
-      <a class="tp-custom tp-customs" href="https://chrome.google.com/webstore/detail/jetstream/ijancdlmlahmfgcimhocmpibadokcdfc" target="_blank">
-          <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589895063706.png"/>
-          <div class="tp-content">
-              <h5>Jetstream</h5>
-              <p>https://chrome.google.com/webstore/detail/jetstream/ijancdlmlahmfgcimhocmpibadokcdfc</p>
-          </div>
-      </a>
-
-  </main> -->
+</main>
 
 ## IOST 钱包知识自测
 
@@ -520,7 +518,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
 
 <main class="tp-main">
 
-<a class="tp-custom icon contact" href="iost.io" target="_blank">
+<a class="tp-custom icon contact" href="https://iost.io" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589869384860.png"/>
     <div class="tp-content">
         <p>IOST官网：iost.io</p>
@@ -534,14 +532,14 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
     </div>
 </a>
 
-<a class="tp-custom icon contact" href="twitter.com/iosToken" target="_blank">
+<a class="tp-custom icon contact" href="https://twitter.com/iosToken" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870346059.png"/>
     <div class="tp-content">
         <p>Twitter:  twitter.com/iosToken</p>
     </div>
 </a>
 
-<a class="tp-custom icon contact" href="t.me/iostchinese" target="_blank">
+<a class="tp-custom icon contact" href="https://t.me/iostchinese" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870407994.png"/>
     <div class="tp-content">
         <p>Telegram:  t.me/iostchinese</p>
@@ -555,14 +553,14 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
     </div>
 </a>
 
-<a class="tp-custom icon contact" href="medium.com/iost" target="_blank">
+<a class="tp-custom icon contact" href="https://medium.com/iost" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870503428.png"/>
     <div class="tp-content">
         <p>Medium: medium.com/iost</p>
     </div>
 </a>
 
-<a class="tp-custom icon contact" href="iost.zendesk.com" target="_blank">
+<a class="tp-custom icon contact" href="https://iost.zendesk.com" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870585429.png"/>
     <div class="tp-content">
         <p>Zendesk iost.zendesk.com</p>
