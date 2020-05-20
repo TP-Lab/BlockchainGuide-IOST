@@ -460,8 +460,8 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
       Infinito：https://www.infinitowallet.io<br/>
       BigFour：https://bigfour.io<br/> -->
 
-- 硬件钱包<br/>
-- <main class="tp-main">
+* 硬件钱包<br/>
+* <main class="tp-main">
 
       <a class="tp-custom tp-customs" href="https://www.coldlar.com" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894978000.png"/>
@@ -474,7 +474,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
   </main>
       <!-- 库神：https://www.coldlar.com<br/> -->
 
-- 插件钱包<br/>
+* 插件钱包<br/>
     <main class="tp-main">
 
       <a class="tp-custom tp-customs" href="https://chrome.google.com/webstore/detail/kncchdigobghenbbaddojjnnaogfppfj" target="_blank">
