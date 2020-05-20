@@ -191,13 +191,13 @@ IOST 投票宝作为一个 H5（HTML5）型态的产品，用户可以借助钱�
 
 **1、 IOST 节点合伙人机制介绍**
 
-有志于成为 IOST 合伙人的个人或团队，只需填写合伙人申请表，即可成为候选人。节点合伙人申请表<br/>
+有志于成为 IOST 合伙人的个人或团队，只需填写合伙人申请表，即可成为候选人。<br/>
 
-<div align="left">
+<div align="center">
     <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861261180.png">
     
 </div>
-&emsp;&emsp;扫码申请成为IOST节点合伙人扫码申请成为IOST节点合伙人
+<center>扫码申请成为IOST节点合伙人扫码申请成为IOST节点合伙人</center>
 
 IOST 节点合伙人申请链接：https://iost-cn.typeform.com/to/S2Ob3x
 
@@ -400,7 +400,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
               <p>https://www.Tokenpocket.pro</p>
           </div>
       </a>
-      <!-- <a class="tp-custom tp-customs" href="https://cobo.com" target="_blank">
+      <a class="tp-custom tp-customs" href="https://cobo.com" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894579177.png"/>
           <div class="tp-content">
               <h5>Cobo</h5>
@@ -448,7 +448,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
               <h5>BigFour</h5>
               <p>https://bigfour.io</p>
           </div>
-      </a> -->
+      </a>
 
   </main>
       <!-- TokenPocket：https://www.Tokenpocket.pro<br/>
@@ -514,49 +514,49 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
 
 <main class="tp-main">
 
-<a class="tp-custom icon contact" href="iost.io">
+<a class="tp-custom icon contact" href="iost.io" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589869384860.png"/>
     <div class="tp-content">
         <p>IOST官网：iost.io</p>
     </div>
 </a>
 
-<a class="tp-custom icon contact" href="https://weibo.com/u/6502023048?refer_flag=1001030103_&is_all=1">
+<a class="tp-custom icon contact" href="https://weibo.com/u/6502023048?refer_flag=1001030103_&is_all=1" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870220254.png"/>
     <div class="tp-content">
         <p>微博：IOST社区</p>
     </div>
 </a>
 
-<a class="tp-custom icon contact" href="twitter.com/iosToken">
+<a class="tp-custom icon contact" href="twitter.com/iosToken" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870346059.png"/>
     <div class="tp-content">
         <p>Twitter:  twitter.com/iosToken</p>
     </div>
 </a>
 
-<a class="tp-custom icon contact" href="t.me/iostchinese">
+<a class="tp-custom icon contact" href="t.me/iostchinese" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870407994.png"/>
     <div class="tp-content">
         <p>Telegram:  t.me/iostchinese</p>
     </div>
 </a>
 
-<a class="tp-custom icon contact" href="https://github.com/iost-official">
+<a class="tp-custom icon contact" href="https://github.com/iost-official" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870450791.png"/>
     <div class="tp-content">
         <p>GitHub: https://github.com/iost-official</p>
     </div>
 </a>
 
-<a class="tp-custom icon contact" href="medium.com/iost">
+<a class="tp-custom icon contact" href="medium.com/iost" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870503428.png"/>
     <div class="tp-content">
         <p>Medium: medium.com/iost</p>
     </div>
 </a>
 
-<a class="tp-custom icon contact" href="iost.zendesk.com">
+<a class="tp-custom icon contact" href="iost.zendesk.com" target="_blank">
     <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870585429.png"/>
     <div class="tp-content">
         <p>Zendesk iost.zendesk.com</p>
