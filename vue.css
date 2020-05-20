@@ -489,6 +489,10 @@ body.close .content {
     .sidebar-toggle {
         position: fixed;
     }
+    
+    .markdown-section {
+        max-width: 90%;
+    }
 
     .app-nav {
         margin-top: 16px;
