@@ -361,7 +361,7 @@ TokenPocket 钱包在原有权限管理的基础上，新增可添加、删除�
 
 ### 使用 IOST 浏览器
 
-区块链浏览器是浏览区块链信息的主要窗口，每一个区块所记载的内容都可以从区块链浏览器上进行查阅。目前常用的 IOST 浏览器有 ABC 浏览器https://www.IOSTabc.com/和极简浏览器https://explorer.IOST.io/
+区块链浏览器是浏览区块链信息的主要窗口，每一个区块所记载的内容都可以从区块链浏览器上进行查阅。目前常用的 IOST 浏览器有 ABC 浏览器<a href="https://www.IOSTabc.com/" target="_blank">https://www.IOSTabc.com/</a>和极简浏览器<a href="https://explorer.IOST.io/" target="_blank">https://explorer.IOST.io/</a>
 
 使用 IOST 浏览器可以查询 IOST 全网的基础数据:最新区块、交易数量、账户数量、代币数量等；查询账户信息:交易信息、Token 余额和抵押信息等；查询节点数据:节点排行、得票率、出块数量等。
 
