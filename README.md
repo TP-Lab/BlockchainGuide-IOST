@@ -400,7 +400,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
               <p>https://www.Tokenpocket.pro</p>
           </div>
       </a>
-      <a class="tp-custom tp-customs" href="https://cobo.com" target="_blank">
+      <!-- <a class="tp-custom tp-customs" href="https://cobo.com" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894579177.png"/>
           <div class="tp-content">
               <h5>Cobo</h5>
@@ -448,7 +448,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
               <h5>BigFour</h5>
               <p>https://bigfour.io</p>
           </div>
-      </a>
+      </a> -->
 
   </main>
       <!-- TokenPocket：https://www.Tokenpocket.pro<br/>
