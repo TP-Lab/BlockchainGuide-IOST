@@ -193,11 +193,11 @@ IOST 投票宝作为一个 H5（HTML5）型态的产品，用户可以借助钱�
 
 有志于成为 IOST 合伙人的个人或团队，只需填写合伙人申请表，即可成为候选人。节点合伙人申请表<br/>
 
-<div align="center">
+<div align="left">
     <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861261180.png">
     
 </div>
-<center>扫码申请成为IOST节点合伙人扫码申请成为IOST节点合伙人</center>
+&emsp;&emsp;扫码申请成为IOST节点合伙人扫码申请成为IOST节点合伙人
 
 IOST 节点合伙人申请链接：https://iost-cn.typeform.com/to/S2Ob3x
 
@@ -461,7 +461,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
       BigFour：https://bigfour.io<br/> -->
 
 - 硬件钱包<br/>
-  <main class="tp-main">
+- <main class="tp-main">
 
       <a class="tp-custom tp-customs" href="https://www.coldlar.com" target="_blank">
           <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894978000.png"/>
