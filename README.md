@@ -469,15 +469,6 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
 
   </main> -->
 
-      <!-- TokenPocket：https://www.Tokenpocket.pro<br/>
-      Cobo：https://cobo.com<br/>
-      PureWallet：http://purewallet.org<br/>
-      火币钱包：https://www.huobiwallet.com<br/>
-      Bepal：https://app.bepal.pro/<br/>
-      Starteos：https://www.starteos.io<br/>
-      Infinito：https://www.infinitowallet.io<br/>
-      BigFour：https://bigfour.io<br/> -->
-
 <!-- * 硬件钱包<br/>
 * <main class="tp-main">
 
