@@ -193,11 +193,11 @@ IOST 投票宝作为一个 H5（HTML5）型态的产品，用户可以借助钱�
 
 有志于成为 IOST 合伙人的个人或团队，只需填写合伙人申请表，即可成为候选人。节点合伙人申请表<br/>
 
-<div align="left">
+<div align="center">
     <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861261180.png">
     
 </div>
-&emsp;&emsp;扫码申请成为IOST节点合伙人扫码申请成为IOST节点合伙人
+<center>扫码申请成为IOST节点合伙人扫码申请成为IOST节点合伙人</center>
 
 IOST 节点合伙人申请链接：https://iost-cn.typeform.com/to/S2Ob3x
 
