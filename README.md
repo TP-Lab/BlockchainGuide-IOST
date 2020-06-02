@@ -138,8 +138,6 @@ https://developers.iost.io/docs/zh-CN/3-smart-contract/Token721.html
 
 投票者将获得其所投节点合伙人的当选奖励和生态贡献奖励的 50%作为分红，不参与造块奖励与其他奖励的分红。其中，当选奖励每天发放，贡献奖励每季度（3 个月）发放一次。
 
-投票者将获得其所投节点合伙人的当选奖励和生态贡献奖励的 50%作为分红，不参与造块奖励与其他奖励的分红。其中，当选奖励每天发放，贡献奖励每季度（3 个月）发放一次。
-
 **4、多种投票方式**
 
 - 通过 IOST 钱包投票
@@ -154,7 +152,7 @@ https://developers.iost.io/docs/zh-CN/3-smart-contract/Token721.html
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860560351.png "IOST钱包")
 
 - 通过 IOST 投票宝投票
--
+
 
 IOST 投票宝是由 IOST 节点合伙人 —— 猎币开发的 IOST 链上投票与分红领取工具，可以对比节点分红收益，一键领取每日分红等。
 
@@ -165,7 +163,6 @@ IOST 投票宝作为一个 H5（HTML5）型态的产品，用户可以借助钱�
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860618067.png "IOST钱包")
 
 - 特殊的投票玩法——矿池
--
 
 矿池是基于 PoS 建立的一种理财机制，用户使用 IOST Token 可以在矿池进行挖矿。
 
