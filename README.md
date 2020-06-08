@@ -56,6 +56,14 @@ Jetstream 是一款 web 端插件钱包，在 Jetstream 可以帮助用户直接
 
 IOST 账号创建完成后，就可以在 IOST 钱包进行收款、转账、给节点合伙人投票等相关操作了。
 
+3、钱包找回
+
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1591598214264.png "IOST钱包")
+
+如果用户之前创建了一个IOST钱包，不小心卸载了钱包，可以通过私钥找回之前的IOST钱包。只要记得钱包私钥就可以在IOST钱包导入，钱包资产信息不会有任何损失。
+用户安装TokenPocket钱包后选择“我有钱包”，选择“IOST底层钱包”，然后添加账号，导入之前的私钥，设置一个钱包密码，点击“导入钱包”之前的钱包就会成功找回。
+
+
 ## IOST Token 与钱包
 
 ### IOST Token 发行
