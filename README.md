@@ -248,7 +248,7 @@ IOST 节点合伙人申请链接：https://iost-cn.typeform.com/to/S2Ob3x
 
 **1、如何获得 IOST Token**
 
-通过交易所交易、币币闪兑、法币购买这三种方式，用户可以很方便的获得 IOST Token。
+通过交易所交易、币币闪兑这两种方式，用户可以很方便的获得 IOST Token。
 
 交易所交易
 
@@ -261,12 +261,6 @@ IOST 节点合伙人申请链接：https://iost-cn.typeform.com/to/S2Ob3x
 闪兑顾名思义就是闪电兑换，即可以通过其它 Token 来快速兑换 IOST，闪兑不同于一般交易所的订单撮合模式，它更像银行柜台模式，因此交易速度更快，几乎是实时完成兑换的。
 
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861688587.png "IOST钱包")
-
-**法币购买**<br/>
-
-在 TokenPocket 中通过币买卖直接使用法币买入 IOST Token，购买完成后的 IOST 将会直接转入你的 IOST 账号。
-
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861771719.png "IOST钱包")
 
 ### 如何进行 IOST 转账
 
@@ -327,8 +321,6 @@ IOST 账号在转账前，需要先保证账号内有足够的 IOST 资源，IOS
 2、体验 IOST DApp
 
 持有 IOST Token，可以体验 IOST 生态中的 DApp，IOST Token 相当于体验 DApp 的门票。通过支持 IOST DApp 的钱包浏览器，可以很方便的进行 DApp 体验。当前 IOST 主链上发行的游戏超过 60 款，游戏类型丰富，喜欢宠物养成与卡牌策略的可以选择 XPET 怪兽世界，饲养自己的区块链萌宠；喜欢三国题材的可以选择 IOST 加密三国志，攻略城池赚取分红。
-
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862346198.png "IOST钱包")
 
 3、在中心化与去中心化交易所进行交易
 
