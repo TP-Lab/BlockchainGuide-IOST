@@ -391,7 +391,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
 <main class="tp-main">
 
 <a class="tp-custom tp-customs" href="https://www.Tokenpocket.pro" target="_blank">
-    <img class="tp-logo" src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589894459599.png"/>
+    <img class="tp-logo" src="https://tp-statics.tokenpocket.pro/logo/TokenPocket-20211201.png"/>
     <div class="tp-content">
         <h5>TokenPocket</h5>
         <p>https://www.Tokenpocket.pro</p>
