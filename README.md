@@ -21,14 +21,14 @@ IOST 账号由 5~11 个字符组成，字符包括字母、数字和下划线，
 以 TokenPocet 钱包（以下简称 TP 钱包）为例，第一次创建 IOST 账号建议选择【激活码创建】，使用这种方式本质是把创建账号需要的资源费用以法币支付，可选的支付方式有支付宝、微信或 Paypal，十分便捷。
 
 <figure class="half">
-<img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870644665.png" width="50%"><img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589858538611.png" width="50%">
+<img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589870644665.png" width="50%"><img src="https://gz.bcebos.com/tp-upload/newBanner/iost-1.png" width="50%">
 </figure>
 
 ### 好友创建
 
 好友创建本质是通过其他账号来支付创建 IOST 新账号所需的资源费用。即可以用已经持有 IOST 的账号来支付新账号的创建费用，或是让朋友来帮忙支付。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860085039.png "IOST钱包")
+![](https://gz.bcebos.com/tp-upload/newBanner/iost-2.png 'IOST钱包')
 
 在钱包中把创建 IOST 账号产生的订单信息页面发送给好友，由好友代为支付创建 IOST 账号所产生的费用，好友支付成功后就可以激活账号使用了，当然了好友代付这一步你也可以用自己的账号支付。
 
@@ -58,11 +58,10 @@ IOST 账号创建完成后，就可以在 IOST 钱包进行收款、转账、给
 
 3、钱包找回
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1591598214264.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1591598214264.png 'IOST钱包')
 
-如果用户之前创建了一个IOST钱包，不小心卸载了钱包，可以通过私钥找回之前的IOST钱包。只要记得钱包私钥就可以在IOST钱包导入，钱包资产信息不会有任何损失。
-用户安装TokenPocket钱包后选择“我有钱包”，选择“IOST底层钱包”，然后添加账号，导入之前的私钥，设置一个钱包密码，点击“导入钱包”之前的钱包就会成功找回。
-
+如果用户之前创建了一个 IOST 钱包，不小心卸载了钱包，可以通过私钥找回之前的 IOST 钱包。只要记得钱包私钥就可以在 IOST 钱包导入，钱包资产信息不会有任何损失。
+用户安装 TokenPocket 钱包后选择“我有钱包”，选择“IOST 底层钱包”，然后添加账号，导入之前的私钥，设置一个钱包密码，点击“导入钱包”之前的钱包就会成功找回。
 
 ## IOST Token 与钱包
 
@@ -102,7 +101,7 @@ https://developers.iost.io/docs/zh-CN/3-smart-contract/Token721.html
 
 4 月 13 日，IOST 链上首个支持 NFT 跨链转移的游戏资产交易平台——掠宝网正式上线。
 
-![掠宝网](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860229249.png "掠宝网")
+![掠宝网](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860229249.png '掠宝网')
 
 掠宝网网址：www.xloot.io
 
@@ -152,15 +151,14 @@ https://developers.iost.io/docs/zh-CN/3-smart-contract/Token721.html
 
 在 IOST 钱包的投票页面选择要投票的节点，点击后面的"投票"按钮，并输入参与投票的 IOST 数量就可以进行投票了。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860271960.png "IOST钱包")
+![](https://gz.bcebos.com/tp-upload/newBanner/iost-3.png 'IOST钱包')
 
 - 通过 IOSTABC 区块浏览器投票
 
 在 IOSTABC 的"节点投票"页面中选择要投票的节点，然后点击"投票给他"按钮就可以完成投票了。
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860560351.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860560351.png 'IOST钱包')
 
 - 通过 IOST 投票宝投票
-
 
 IOST 投票宝是由 IOST 节点合伙人 —— 猎币开发的 IOST 链上投票与分红领取工具，可以对比节点分红收益，一键领取每日分红等。
 
@@ -168,7 +166,7 @@ IOST 投票宝作为一个 H5（HTML5）型态的产品，用户可以借助钱�
 
 投票宝支持"一键复投"，即把最新分红的 IOST，再次投票给发放分红的节点，从而达到复利的效果。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860618067.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860618067.png 'IOST钱包')
 
 - 特殊的投票玩法——矿池
 
@@ -180,7 +178,7 @@ IOST 投票宝作为一个 H5（HTML5）型态的产品，用户可以借助钱�
 
 与普通节点投票赎回不同的是，猎币矿池赎回的过程就是停止挖矿的过程，也就是将 VOST（矿权）赎回成 IOST，VOST（矿权）可以随时赎回。在赎回时，既可以按正常流程赎回（3 天等待期），也可以使用闪电赎回，闪电赎回立即到账，但要收取一定的费用。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860981218.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860981218.png 'IOST钱包')
 
 **火币 IOST 矿池**
 
@@ -188,7 +186,7 @@ IOST 投票宝作为一个 H5（HTML5）型态的产品，用户可以借助钱�
 
 在火币矿池进行投票挖矿前，需要把火币网币币账户中的 IOST 划转到矿池账户中，然后在 IOST 投票挖矿页面给节点进行投票。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589888981918.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589888981918.png 'IOST钱包')
 
 ### IOST 节点合伙人
 
@@ -214,11 +212,11 @@ IOST 节点合伙人申请链接：https://iost-cn.typeform.com/to/S2Ob3x
 
 我们可在 IOST ABC 区块浏览器查询 IOST 各个投票节点合伙人详细信息，可以查看节点合伙人名称、得票、年化利率以及出块数量等。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861354839.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861354839.png 'IOST钱包')
 
 此外，我们还可以通过关注每个季度 IOST 节点合伙人贡献评级排名，来判断我们应该投给哪些真正为 IOST 社区贡献且投票奖励较高的节点合伙人。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589889570981.png "IOST钱包")
+![](https://gz.bcebos.com/tp-upload/newBanner/iost-4.png 'IOST钱包')
 
 <center>部分优秀IOST节点合伙人展示</center>
 
@@ -230,7 +228,7 @@ IOST 节点合伙人申请链接：https://iost-cn.typeform.com/to/S2Ob3x
 
 在 TP 钱包【发现】 IOST 专区找到 IOST 一键发币应用并打开。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861498803.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861498803.png 'IOST钱包')
 
 输入要发行的 Token 名称、Token 说明、发行数量和精度，输入完 Token 的参数后点击"创建"，提示成功后再点击"发行"。
 
@@ -240,7 +238,7 @@ IOST 节点合伙人申请链接：https://iost-cn.typeform.com/to/S2Ob3x
 
 使用 IOST Tool 网站发币前，需要先下载 iWallet 插件钱包并安装，登录 iWallet 钱包后，在 "一键发 Token" 网站 http://www.iosttool.com/ 中依次输入 Token 名称、发行量、精度、通证说明这 4 个关键参数，就可以发行你的个人 Token 啦！
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861584335.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861584335.png 'IOST钱包')
 
 在 IOST 发行完代币后，在 IOST 区块浏览器（例如 IOSTABC）就可以查询到该代币，例如会显示发币者、通证名称、通证说明以及持有人数等。如果你希望能在钱包中管理自己发行的 Token，你需要向各个 IOST 钱包申请 Token 收录。
 
@@ -260,7 +258,7 @@ IOST 节点合伙人申请链接：https://iost-cn.typeform.com/to/S2Ob3x
 
 闪兑顾名思义就是闪电兑换，即可以通过其它 Token 来快速兑换 IOST，闪兑不同于一般交易所的订单撮合模式，它更像银行柜台模式，因此交易速度更快，几乎是实时完成兑换的。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861688587.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589861688587.png 'IOST钱包')
 
 ### 如何进行 IOST 转账
 
@@ -268,7 +266,7 @@ IOST 节点合伙人申请链接：https://iost-cn.typeform.com/to/S2Ob3x
 
 IOST 账号在转账前，需要先保证账号内有足够的 IOST 资源，IOST 资源包括 iRAM 和 iGAS，iRAM 资源需要账号使用 IOST 来购买，iGAS 需要账号抵押 IOST 来获取。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589888249390.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589888249390.png 'IOST钱包')
 
 (2）三种不同的转账操作
 
@@ -280,7 +278,7 @@ IOST 账号在转账前，需要先保证账号内有足够的 IOST 资源，IOS
 
 从交易所转账到 IOST 账号（钱包账号）即从交易所把 IOST 提币出来，提到自己独立的 IOST 账号中，是不需要填写 memo 信息的。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862003957.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862003957.png 'IOST钱包')
 
 例如，在火币网提币 IOST 时，只需输入提币地址（IOST 钱包账号）、提币数量，不需要输入 memo 信息（选择不填或填写任意内容皆可）。
 
@@ -290,13 +288,13 @@ IOST 账号在转账前，需要先保证账号内有足够的 IOST 资源，IOS
 
 例如，在往火币交易所充值 IOST 时，除了转账数量和接收账号外，memo 也是需要输入的，即火币充值地址中显示的地址标签（用于区分不同的火币用户），否则可能不会到账。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862094005.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862094005.png 'IOST钱包')
 
 (3）丰富便捷的转账形式
 
 为了更好的方便用户进行转账收款操作，IOST 钱包提供直接转账、地址簿转账和扫码转账等多种形式满足用户不同的需求。
 
-[](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589888371174.png "IOST钱包")
+[](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589888371174.png 'IOST钱包')
 
 直接转账：输入收款账号、转账数量以及 memo 后，点击"确认"即可完成 IOST 的转账。
 
@@ -334,13 +332,13 @@ IOST 账号在转账前，需要先保证账号内有足够的 IOST 资源，IOS
 
 资产归集是将某种资产全部转移到指定账号中的功能，此功能可以将你所有 IOST 账号的资产转账到一个账号，可以手动选择想要进行归集的 IOST 账号和被归集的账号。归集操作本质上是一次或多次转账，需要一定时间等待区块确认。被归集的账号越多，归集过程花费的时间也越长。归集操作中的某些转账有可能因为区块链网络无法确认而失败。失败的转账不会影响已经成功的转账，也不会导致资产的损失，可以在网络稳定后尝试再次进行归集。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589888539170.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589888539170.png 'IOST钱包')
 
 ### IOST 白名单
 
 DApp 白名单就是对某一款 DApp 进行信任授权，将特定的合约操作加入白名单，之后相同操作将不再需要二次确认。我们在玩 DApp 的过程中经常需要与合约做交互，每一次的交互都需要授权一次，要高频操作每次都要重复授权，体验非常差。勾选属性旁边的单选按钮意味着您允许此操作的该属性可以更改，仅当其他属性发生变化才不会被列入白名单。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862518623.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862518623.png 'IOST钱包')
 
 ### 权限管理
 
@@ -350,7 +348,7 @@ Owner:代表对账户的所有权，可以管理 Active 和其他角色。改变
 
 Active：用于日常使用，如转账、节点投票，及其他高级别账户变动。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862628453.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862628453.png 'IOST钱包')
 
 TokenPocket 钱包在原有权限管理的基础上，新增可添加、删除、变更多个拥有者/管理者权限，目的是为了满足一些用户对于账号权限多点分配的需求。通过该功能可以新增/更改 IOST 账号的权限，进而更改账号的秘钥，操作过程中要注意在用秘钥生成器生成新的公钥和私钥时一定要把私钥保存好，钱包默认的权重阈值为 100 且不可更改。
 
@@ -362,7 +360,7 @@ TokenPocket 钱包在原有权限管理的基础上，新增可添加、删除�
 
 使用 IOST 浏览器可以查询 IOST 全网的基础数据:最新区块、交易数量、账户数量、代币数量等；查询账户信息:交易信息、Token 余额和抵押信息等；查询节点数据:节点排行、得票率、出块数量等。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862689325.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862689325.png 'IOST钱包')
 
 ### 调整钱包排序
 
@@ -372,14 +370,14 @@ TokenPocket 钱包在原有权限管理的基础上，新增可添加、删除�
 
 作为 IOST 生态用户，可以在钱包中便捷的浏览到 IOST 的最新价格变化、快讯、文章。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862776352.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862776352.png 'IOST钱包')
 
 ## IOST 开发者与钱包
 
 IOST 作为新一代的高性能公有区块链，拥有拓展性强、稳定的基础架构，凭借其优秀的底层技术和良好的开发者支持，一直吸引着众多开发者来到 IOST 生态作出贡献，但开发者们没有太多开发工具来使用，加上对公链的了解不深，因此开发者在区块链上的开发往往比传统开发要难的多。<br/>
 作为大量 DApp 流量的入口，钱包的职责不仅要帮助用户来体验 DApp，还要帮助 DApp 来获得用户，钱包不仅要服务好用户、公链，还要赋能给开发者。因此，钱包会提供一些开发者工具来支持 IOST 开发者们。
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862843129.png "IOST钱包")
+![](https://gz.bcebos.com/tp-upload/newBanner/iost-5.png 'IOST钱包')
 
 以 TokenPocket 钱包为例，TP 钱包为 IOST 开发者提供 Android 和 iOS 移动 SDK，开发人员可用 SDK 唤起 TP 钱包进行钱包账号的授权登陆，执行合约操作等。TP 钱包内部 Webview 兼容 IOST 的 iwallet 协议标准，可以直接在钱包内 Dapp 浏览器内输入 URL 即可开发测试基于 IOST 开发的各种 DAPP，实现在 TP 钱包内 Dapp 浏览器内唤起授权签名等操作。<br/>
 总之，IOST 因其良好的性能和极低的 Gas 消耗费用，为更精良的 DApp 的产生和大规模使用提供了可能。而钱包服务与 IOST 开发者，提供开发帮助和用户，二者共同为更好的应用级公链作出自己的贡献。<br/>
@@ -548,7 +546,7 @@ SDK 链接：https://github.com/TP-Lab/TokenPocket-Protocol
 </a>
 </main>
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589863338679.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589863338679.png 'IOST钱包')
 
 微信群：
 
